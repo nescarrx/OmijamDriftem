@@ -1,0 +1,54 @@
+{
+    "name": "CarControll",
+    "maps": [
+        {
+            "name": "Car",
+            "id": "e095be61-7c90-4691-abcb-4bfa2d06e51d",
+            "actions": [
+                {
+                    "name": "GoForward",
+                    "type": "Button",
+                    "id": "abd79953-4ade-49e0-859c-09bcc9f0b912",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Hold",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "TurnLeft",
+                    "type": "Button",
+                    "id": "40fff508-bbe5-4c66-b402-f1d77d7289c7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "20a6a23d-198b-45a6-85fd-79b500aa10b4",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GoForward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9cd24125-a5cc-41f5-844f-25db1f767a36",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TurnLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

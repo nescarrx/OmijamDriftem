@@ -1,0 +1,2217 @@
+fileFormatVersion: 2
+guid: 534d865a9be714441afd93fc091747ef
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 8922272478170635360
+    second: Classic_16_Body|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -5278781867434552684
+    second: Classic_16_Body|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: 3130152236280891355
+    second: Classic_16_Body|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -2773413896767803072
+    second: Classic_16_Body|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -6949658678327948060
+    second: Classic_16_Body|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -5940823618198925204
+    second: Classic_16_Body|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: 6809644051551747109
+    second: Classic_16_Body|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: 1616785675994078355
+    second: Classic_16_Body|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: -1436321470947599412
+    second: Classic_16_Body|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: -5491946706638981533
+    second: Classic_16_Body|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: 6910266495865556895
+    second: Classic_16_Body|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -1995311583804296645
+    second: Classic_16_Body|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -7690405231430449007
+    second: Classic_16_Body|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 5362885314901751375
+    second: Classic_16_Body|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: 9198875341091235274
+    second: Classic_16_Body|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: -8259960884043929682
+    second: Classic_16_Body|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -565807903176745487
+    second: Classic_16_Body|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 7237867002782498253
+    second: Classic_16_Body|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 3255190938435666196
+    second: Classic_16_Body|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: 8872412013518675115
+    second: Classic_16_Body|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 8479060125441690571
+    second: Classic_16_Body|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -462652359789437334
+    second: Classic_16_Body|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: -6081056672781502874
+    second: Classic_16_Body|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: -218189385543235003
+    second: Classic_16_Body|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 6912484813451599590
+    second: Classic_16_Body|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 2824532639804402023
+    second: Classic_16_Body|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -2955560179759212997
+    second: Classic_16_Body|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 6519794792737314790
+    second: Classic_16_Body|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -7975565918911197642
+    second: Classic_16_Body|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -9172164022989248634
+    second: Classic_16_Body|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 8103168015180199419
+    second: Classic_16_Body|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: -2734894009358034182
+    second: Classic_16_Body|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: -3447170686380561118
+    second: Classic_16_Taillights|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -6508078728497538452
+    second: Classic_16_Taillights|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -7406334287008299651
+    second: Classic_16_Taillights|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: 6481399192300277080
+    second: Classic_16_Taillights|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -7517613812643536805
+    second: Classic_16_Taillights|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -8907695120299274445
+    second: Classic_16_Taillights|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -2462042576708080244
+    second: Classic_16_Taillights|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: 5985314526700053376
+    second: Classic_16_Taillights|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 3027857982629244446
+    second: Classic_16_Taillights|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: -3754141605385655196
+    second: Classic_16_Taillights|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -6115192149287262261
+    second: Classic_16_Taillights|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: 797814421847833798
+    second: Classic_16_Taillights|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: 2588626682877082146
+    second: Classic_16_Taillights|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 2211418678007368076
+    second: Classic_16_Taillights|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -6161015119972602285
+    second: Classic_16_Taillights|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: -4252356896586493738
+    second: Classic_16_Taillights|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: 1941890075412795623
+    second: Classic_16_Taillights|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 3296485007353404825
+    second: Classic_16_Taillights|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: -5367409420620244608
+    second: Classic_16_Taillights|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -2513914350719021177
+    second: Classic_16_Taillights|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -7257313031388011396
+    second: Classic_16_Taillights|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -467863232909163510
+    second: Classic_16_Taillights|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 8877367637601651356
+    second: Classic_16_Taillights|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 7121524402304088233
+    second: Classic_16_Taillights|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 3827327316398223695
+    second: Classic_16_Taillights|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -7550494202054998050
+    second: Classic_16_Taillights|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -8196092696180394542
+    second: Classic_16_Taillights|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 3287095930541644882
+    second: Classic_16_Taillights|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: 3692785376085516271
+    second: Classic_16_Taillights|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -9196146938076436032
+    second: Classic_16_Taillights|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: -5723761598766671141
+    second: Classic_16_Taillights|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: -3944940025495023702
+    second: Classic_16_Taillights|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 3546064834525134315
+    second: Classic_16_Dashboard|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 4834113510398568973
+    second: Classic_16_Dashboard|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -1631078925069032059
+    second: Classic_16_Dashboard|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: 1777654098163685539
+    second: Classic_16_Dashboard|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -2829842828673770831
+    second: Classic_16_Dashboard|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -581143495323106742
+    second: Classic_16_Dashboard|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -3164775215283296782
+    second: Classic_16_Dashboard|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -7502073806407065028
+    second: Classic_16_Dashboard|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: -3848753755189351769
+    second: Classic_16_Dashboard|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 8885537017077904382
+    second: Classic_16_Dashboard|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -6398791688214102862
+    second: Classic_16_Dashboard|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -3118275710257393339
+    second: Classic_16_Dashboard|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: 7976397416745187272
+    second: Classic_16_Dashboard|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 3418210133246713142
+    second: Classic_16_Dashboard|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -1508693271738480701
+    second: Classic_16_Dashboard|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 7411555505702559875
+    second: Classic_16_Dashboard|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: 6347050244858363412
+    second: Classic_16_Dashboard|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 6918565952934823520
+    second: Classic_16_Dashboard|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: -9164033355479216302
+    second: Classic_16_Dashboard|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -4011027879695167657
+    second: Classic_16_Dashboard|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 2478034916528648267
+    second: Classic_16_Dashboard|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 1709848038689688913
+    second: Classic_16_Dashboard|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 8643647630133356930
+    second: Classic_16_Dashboard|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: -2236986052003565205
+    second: Classic_16_Dashboard|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: -5036633834268267853
+    second: Classic_16_Dashboard|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -9104461804867283894
+    second: Classic_16_Dashboard|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -4701034223147115336
+    second: Classic_16_Dashboard|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: -5964412058250254485
+    second: Classic_16_Dashboard|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -3747999361516504101
+    second: Classic_16_Dashboard|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -5794453754492267640
+    second: Classic_16_Dashboard|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: -7414251700341421253
+    second: Classic_16_Dashboard|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: -8623584599344259297
+    second: Classic_16_Dashboard|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 7215336879527468826
+    second: Classic_16_Hood|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 6776067996326199535
+    second: Classic_16_Hood|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: 3182415825792812798
+    second: Classic_16_Hood|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: 8413608778183801138
+    second: Classic_16_Hood|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: 2924110585380952558
+    second: Classic_16_Hood|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -6622935507973916460
+    second: Classic_16_Hood|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: 1892319539151762766
+    second: Classic_16_Hood|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -331701724616708748
+    second: Classic_16_Hood|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 3745691191627754243
+    second: Classic_16_Hood|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 3313347390604600459
+    second: Classic_16_Hood|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -7137373238421036936
+    second: Classic_16_Hood|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -763585730937207610
+    second: Classic_16_Hood|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: 3899565653022241105
+    second: Classic_16_Hood|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 4428402232951771670
+    second: Classic_16_Hood|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -2149718482247129037
+    second: Classic_16_Hood|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: -6987388446868380585
+    second: Classic_16_Hood|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -3442645742706301863
+    second: Classic_16_Hood|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 850572724419154741
+    second: Classic_16_Hood|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: -937097754758432887
+    second: Classic_16_Hood|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -7441215069922605981
+    second: Classic_16_Hood|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 8135841364062364281
+    second: Classic_16_Hood|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 7193301557526792504
+    second: Classic_16_Hood|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: -4532235042188859915
+    second: Classic_16_Hood|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: -5078564694630363591
+    second: Classic_16_Hood|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 6943837204631170049
+    second: Classic_16_Hood|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -8340347991322757379
+    second: Classic_16_Hood|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: 7829504354466019014
+    second: Classic_16_Hood|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: -7377915512692782744
+    second: Classic_16_Hood|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: 2260992934440909387
+    second: Classic_16_Hood|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 8385875793262212010
+    second: Classic_16_Hood|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: -5641698739735003898
+    second: Classic_16_Hood|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 386442963628908673
+    second: Classic_16_Hood|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: -5412432204785326047
+    second: Classic_16_Trunk|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 7348215003155448925
+    second: Classic_16_Trunk|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: 4967806673674553755
+    second: Classic_16_Trunk|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: 2896419222854083598
+    second: Classic_16_Trunk|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -4853276932009477263
+    second: Classic_16_Trunk|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: 9089858746243635463
+    second: Classic_16_Trunk|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -6704766636481426225
+    second: Classic_16_Trunk|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -6686096438671249759
+    second: Classic_16_Trunk|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: -6474218096224528659
+    second: Classic_16_Trunk|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: -5688431236193957433
+    second: Classic_16_Trunk|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -8759489908025652378
+    second: Classic_16_Trunk|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -3331257071936488046
+    second: Classic_16_Trunk|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: 8240345113417723752
+    second: Classic_16_Trunk|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: -3543609997502784730
+    second: Classic_16_Trunk|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -7525085258884140126
+    second: Classic_16_Trunk|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: -1725513587399315408
+    second: Classic_16_Trunk|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -4250463345704971647
+    second: Classic_16_Trunk|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 2106311716832026322
+    second: Classic_16_Trunk|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 6181432360328292062
+    second: Classic_16_Trunk|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -6154057256351616111
+    second: Classic_16_Trunk|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -4653693763263654603
+    second: Classic_16_Trunk|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 1601018140043291913
+    second: Classic_16_Trunk|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 3158335208665967210
+    second: Classic_16_Trunk|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: -8054423485591585125
+    second: Classic_16_Trunk|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: -851708772779653969
+    second: Classic_16_Trunk|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -48648717659229064
+    second: Classic_16_Trunk|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -2514835241180095530
+    second: Classic_16_Trunk|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 1727347981649570167
+    second: Classic_16_Trunk|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -3597037968466122578
+    second: Classic_16_Trunk|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 4502619749641000447
+    second: Classic_16_Trunk|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: -6149009746628168724
+    second: Classic_16_Trunk|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 6330812531535807111
+    second: Classic_16_Trunk|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 5725335315129396176
+    second: Classic_16_Roof|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -9222124590710650192
+    second: Classic_16_Roof|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: 2367972153357661878
+    second: Classic_16_Roof|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -6492548915210133129
+    second: Classic_16_Roof|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -4673370649873705971
+    second: Classic_16_Roof|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: 8564248172346000695
+    second: Classic_16_Roof|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: 4475261152828735129
+    second: Classic_16_Roof|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: 2729311504104896100
+    second: Classic_16_Roof|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: -937737435504959885
+    second: Classic_16_Roof|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 5183757206319322886
+    second: Classic_16_Roof|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: 2320038993744102649
+    second: Classic_16_Roof|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: 7632393611211375332
+    second: Classic_16_Roof|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: 2865863664781753761
+    second: Classic_16_Roof|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: -4881303097835835962
+    second: Classic_16_Roof|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -8517863094336607718
+    second: Classic_16_Roof|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 5574104217613797991
+    second: Classic_16_Roof|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -3706011417265363283
+    second: Classic_16_Roof|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 8639421469602157372
+    second: Classic_16_Roof|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 6910640835092585478
+    second: Classic_16_Roof|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -7012612745002387909
+    second: Classic_16_Roof|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -8571160309881749577
+    second: Classic_16_Roof|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 7592458855565975304
+    second: Classic_16_Roof|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 7627948910412649466
+    second: Classic_16_Roof|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 3295941807777727164
+    second: Classic_16_Roof|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: -5095714135080635906
+    second: Classic_16_Roof|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 6139067569142299497
+    second: Classic_16_Roof|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -3710699367273542710
+    second: Classic_16_Roof|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: -8194834932699144536
+    second: Classic_16_Roof|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: 4038924889480647683
+    second: Classic_16_Roof|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 264744401452501175
+    second: Classic_16_Roof|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 5776940060458199736
+    second: Classic_16_Roof|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 2186896424404535917
+    second: Classic_16_Roof|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: -5125931755834517336
+    second: Classic_16_Window_F|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -8899334037683689531
+    second: Classic_16_Window_F|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: 3861118597700548556
+    second: Classic_16_Window_F|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -5193623417644073101
+    second: Classic_16_Window_F|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -4598859628722324049
+    second: Classic_16_Window_F|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: 4380252708094995886
+    second: Classic_16_Window_F|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -4388518826528092466
+    second: Classic_16_Window_F|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: 3285553403903199363
+    second: Classic_16_Window_F|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: -5868462279113597752
+    second: Classic_16_Window_F|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 5772890047160053044
+    second: Classic_16_Window_F|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -6462454323104301661
+    second: Classic_16_Window_F|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -8521104752092540826
+    second: Classic_16_Window_F|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: 9063846271572294311
+    second: Classic_16_Window_F|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 1510278064519690028
+    second: Classic_16_Window_F|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: 5479338472306870950
+    second: Classic_16_Window_F|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: -7101501874106474158
+    second: Classic_16_Window_F|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: 7006988994922932216
+    second: Classic_16_Window_F|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: -2796055613392865094
+    second: Classic_16_Window_F|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 2905542195914094495
+    second: Classic_16_Window_F|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -3206898398623182830
+    second: Classic_16_Window_F|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 6000594524450062097
+    second: Classic_16_Window_F|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -6562365685573147611
+    second: Classic_16_Window_F|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 3230317322614908392
+    second: Classic_16_Window_F|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 938307564060106637
+    second: Classic_16_Window_F|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: -6291644308595060825
+    second: Classic_16_Window_F|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 9013754151840867986
+    second: Classic_16_Window_F|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: 2273492113473944098
+    second: Classic_16_Window_F|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 524399330900722016
+    second: Classic_16_Window_F|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: 1092232809376196985
+    second: Classic_16_Window_F|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 6577413764839804256
+    second: Classic_16_Window_F|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 4178500384857952766
+    second: Classic_16_Window_F|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 4053042323734471709
+    second: Classic_16_Window_F|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: -5334460636715789736
+    second: Classic_16_Window_RF|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -3008047989300280988
+    second: Classic_16_Window_RF|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -6464489323511198024
+    second: Classic_16_Window_RF|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -3562804240216844841
+    second: Classic_16_Window_RF|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: 2335187233559186270
+    second: Classic_16_Window_RF|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: 2981553371474712370
+    second: Classic_16_Window_RF|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: 5606849048733196679
+    second: Classic_16_Window_RF|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -8112540334358323824
+    second: Classic_16_Window_RF|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 4636334272523344963
+    second: Classic_16_Window_RF|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 3598249539603018941
+    second: Classic_16_Window_RF|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -6616924624512045621
+    second: Classic_16_Window_RF|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -2747789401077827011
+    second: Classic_16_Window_RF|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -5331183348475152233
+    second: Classic_16_Window_RF|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: -8238851852795348823
+    second: Classic_16_Window_RF|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -448455523160147066
+    second: Classic_16_Window_RF|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 2129592000200313691
+    second: Classic_16_Window_RF|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -7954550931282641238
+    second: Classic_16_Window_RF|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: -5311014685444797725
+    second: Classic_16_Window_RF|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 1673284398653893034
+    second: Classic_16_Window_RF|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -7731655873211304817
+    second: Classic_16_Window_RF|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 1108485303642843607
+    second: Classic_16_Window_RF|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -1537769961157074031
+    second: Classic_16_Window_RF|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 3165137060465678301
+    second: Classic_16_Window_RF|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 266006933757592214
+    second: Classic_16_Window_RF|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 1329385254737675862
+    second: Classic_16_Window_RF|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 7160601051832664680
+    second: Classic_16_Window_RF|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: 3630102697982497429
+    second: Classic_16_Window_RF|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 8649415903684500060
+    second: Classic_16_Window_RF|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -7330607937078885559
+    second: Classic_16_Window_RF|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -2194499373872811841
+    second: Classic_16_Window_RF|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: -8040110498021199082
+    second: Classic_16_Window_RF|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 6208585513086700520
+    second: Classic_16_Window_RF|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: -7238445736759601871
+    second: Classic_16_Window_RB|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 9006936605232835929
+    second: Classic_16_Window_RB|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -4690755024639112541
+    second: Classic_16_Window_RB|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: 9122399316294929352
+    second: Classic_16_Window_RB|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: 8085272108821868130
+    second: Classic_16_Window_RB|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -7443133245908920317
+    second: Classic_16_Window_RB|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -8067716451287508285
+    second: Classic_16_Window_RB|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -2525011152447861063
+    second: Classic_16_Window_RB|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: -4571913121434177852
+    second: Classic_16_Window_RB|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 913488268547535368
+    second: Classic_16_Window_RB|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -913435964081382080
+    second: Classic_16_Window_RB|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: 2209288080376857297
+    second: Classic_16_Window_RB|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -1318030414677038636
+    second: Classic_16_Window_RB|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 2196846818639047959
+    second: Classic_16_Window_RB|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -7886549480432527675
+    second: Classic_16_Window_RB|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 4076368032124466900
+    second: Classic_16_Window_RB|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -6359751703008275986
+    second: Classic_16_Window_RB|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 6331729688118721072
+    second: Classic_16_Window_RB|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 7879894850036722489
+    second: Classic_16_Window_RB|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -545737706749342250
+    second: Classic_16_Window_RB|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -2137312109919459759
+    second: Classic_16_Window_RB|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -5203146560635139188
+    second: Classic_16_Window_RB|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: -379482581392297138
+    second: Classic_16_Window_RB|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 6238169396504032284
+    second: Classic_16_Window_RB|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 8972137357444100288
+    second: Classic_16_Window_RB|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -9164268393560533654
+    second: Classic_16_Window_RB|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -3016933185794793694
+    second: Classic_16_Window_RB|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 5285762277758626085
+    second: Classic_16_Window_RB|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -5129439606619549730
+    second: Classic_16_Window_RB|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -2060870203272130554
+    second: Classic_16_Window_RB|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 1925886312942567210
+    second: Classic_16_Window_RB|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 3874398706736703435
+    second: Classic_16_Window_RB|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 3434787918798594516
+    second: Classic_16_Window_B|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 2141195820662448228
+    second: Classic_16_Window_B|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -976330040777895510
+    second: Classic_16_Window_B|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: 6682419723277100772
+    second: Classic_16_Window_B|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -1332110045608065166
+    second: Classic_16_Window_B|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -4065277499601281259
+    second: Classic_16_Window_B|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: 8067466975015506659
+    second: Classic_16_Window_B|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: 7446878727537187544
+    second: Classic_16_Window_B|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 5370315350005048862
+    second: Classic_16_Window_B|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 3566945772309594912
+    second: Classic_16_Window_B|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -3916248022935462020
+    second: Classic_16_Window_B|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -845555458841497381
+    second: Classic_16_Window_B|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: 8665697477215698270
+    second: Classic_16_Window_B|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 5271075546720161529
+    second: Classic_16_Window_B|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -1011498338705974169
+    second: Classic_16_Window_B|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 3465597622567406394
+    second: Classic_16_Window_B|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: 6000364245569327074
+    second: Classic_16_Window_B|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: -4195304614394689042
+    second: Classic_16_Window_B|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 2730981488969226259
+    second: Classic_16_Window_B|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: 4939648784119967718
+    second: Classic_16_Window_B|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -4331551574482551743
+    second: Classic_16_Window_B|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -1043913557159332150
+    second: Classic_16_Window_B|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 3830058918048947170
+    second: Classic_16_Window_B|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 2481017133174385441
+    second: Classic_16_Window_B|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 8524892346003075844
+    second: Classic_16_Window_B|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -7369270876440839600
+    second: Classic_16_Window_B|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: 4099436895936669800
+    second: Classic_16_Window_B|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: -7736868760055904284
+    second: Classic_16_Window_B|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: 5683139803132648251
+    second: Classic_16_Window_B|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 356224620083803107
+    second: Classic_16_Window_B|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 1856452179781105967
+    second: Classic_16_Window_B|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: -4166019208223344560
+    second: Classic_16_Window_B|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: -359955046871480628
+    second: Classic_16_Window_LB|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -1078308236426070831
+    second: Classic_16_Window_LB|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: 6591831030292356391
+    second: Classic_16_Window_LB|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: 4161035883607526809
+    second: Classic_16_Window_LB|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: 7673145693506702867
+    second: Classic_16_Window_LB|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -1214208025789361898
+    second: Classic_16_Window_LB|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -7196761756124412916
+    second: Classic_16_Window_LB|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: 5486883630248368359
+    second: Classic_16_Window_LB|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 2504846760926482876
+    second: Classic_16_Window_LB|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 1607136167258601777
+    second: Classic_16_Window_LB|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: 8356927701381305943
+    second: Classic_16_Window_LB|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -4358093816222191923
+    second: Classic_16_Window_LB|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -3013206480428336181
+    second: Classic_16_Window_LB|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 3144773716425601339
+    second: Classic_16_Window_LB|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -2428764141334736290
+    second: Classic_16_Window_LB|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 266756002537453847
+    second: Classic_16_Window_LB|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: 6508147694539263961
+    second: Classic_16_Window_LB|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 468009829756181846
+    second: Classic_16_Window_LB|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 6040173340981028890
+    second: Classic_16_Window_LB|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: 9201046416065843473
+    second: Classic_16_Window_LB|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 3340279476429571734
+    second: Classic_16_Window_LB|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 403507098919070868
+    second: Classic_16_Window_LB|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: -8438263314103250784
+    second: Classic_16_Window_LB|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 757305178006290111
+    second: Classic_16_Window_LB|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 5185647670933768126
+    second: Classic_16_Window_LB|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 1954414839944278099
+    second: Classic_16_Window_LB|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: 5873188756873464827
+    second: Classic_16_Window_LB|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 7709750095586876199
+    second: Classic_16_Window_LB|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -8975315835538044237
+    second: Classic_16_Window_LB|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 1327385423467993453
+    second: Classic_16_Window_LB|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 6211508059883453723
+    second: Classic_16_Window_LB|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 8853851795975712058
+    second: Classic_16_Window_LB|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: -6791220265963803787
+    second: Classic_16_Window_LF|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -3411176075038956494
+    second: Classic_16_Window_LF|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: 4262863844002478203
+    second: Classic_16_Window_LF|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -2551245762252811803
+    second: Classic_16_Window_LF|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -2794946358697959513
+    second: Classic_16_Window_LF|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: 3101204942104110591
+    second: Classic_16_Window_LF|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -5384739938185488896
+    second: Classic_16_Window_LF|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: 5435688459104029309
+    second: Classic_16_Window_LF|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 5231770423443636502
+    second: Classic_16_Window_LF|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 6031591218370883546
+    second: Classic_16_Window_LF|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -5115792074185063276
+    second: Classic_16_Window_LF|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: 1258828943901843508
+    second: Classic_16_Window_LF|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -6054891716242510874
+    second: Classic_16_Window_LF|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 8674699751351328090
+    second: Classic_16_Window_LF|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: 7262444338826098223
+    second: Classic_16_Window_LF|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 206829507315803536
+    second: Classic_16_Window_LF|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -7380321212667996653
+    second: Classic_16_Window_LF|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 7495630931919444046
+    second: Classic_16_Window_LF|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: -5512220580937404861
+    second: Classic_16_Window_LF|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -1772212207245279008
+    second: Classic_16_Window_LF|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 3538586344340504787
+    second: Classic_16_Window_LF|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -5938749741609231417
+    second: Classic_16_Window_LF|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: -3099375549355395605
+    second: Classic_16_Window_LF|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: -4719783094936460283
+    second: Classic_16_Window_LF|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 1221462565638421498
+    second: Classic_16_Window_LF|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 2033088180557979286
+    second: Classic_16_Window_LF|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -305980797397868483
+    second: Classic_16_Window_LF|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: -5017995091125611903
+    second: Classic_16_Window_LF|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: 8849588553040476534
+    second: Classic_16_Window_LF|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -5632881720557301799
+    second: Classic_16_Window_LF|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 4114511349309951767
+    second: Classic_16_Window_LF|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: -7109645996585889703
+    second: Classic_16_Window_LF|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: -376629106646680508
+    second: Classic_16_LightGlass_R|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 3494801837196277517
+    second: Classic_16_LightGlass_R|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -605265607476032978
+    second: Classic_16_LightGlass_R|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -1622093126992933069
+    second: Classic_16_LightGlass_R|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -2570866493569173342
+    second: Classic_16_LightGlass_R|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: 661799812958130721
+    second: Classic_16_LightGlass_R|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -8604461885159057710
+    second: Classic_16_LightGlass_R|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: 1943020655503223371
+    second: Classic_16_LightGlass_R|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 3326465782543397817
+    second: Classic_16_LightGlass_R|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: -4456860632786881997
+    second: Classic_16_LightGlass_R|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: 8754277677783680028
+    second: Classic_16_LightGlass_R|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -8251680291789722901
+    second: Classic_16_LightGlass_R|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -3908399728560500026
+    second: Classic_16_LightGlass_R|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 4360410088421400779
+    second: Classic_16_LightGlass_R|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -2541830504294924587
+    second: Classic_16_LightGlass_R|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: -3847770779505542373
+    second: Classic_16_LightGlass_R|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -4593619696402295869
+    second: Classic_16_LightGlass_R|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: -2682671964521339634
+    second: Classic_16_LightGlass_R|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: -7975316944315778610
+    second: Classic_16_LightGlass_R|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -7065535622962713048
+    second: Classic_16_LightGlass_R|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -1149464260836097795
+    second: Classic_16_LightGlass_R|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -7821910020729544211
+    second: Classic_16_LightGlass_R|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 5032981197948859330
+    second: Classic_16_LightGlass_R|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 4304456894146857181
+    second: Classic_16_LightGlass_R|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: -3215392092465975480
+    second: Classic_16_LightGlass_R|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 7005719242980818192
+    second: Classic_16_LightGlass_R|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: 2929737425889712845
+    second: Classic_16_LightGlass_R|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: -2620714059954041025
+    second: Classic_16_LightGlass_R|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -1928722687451593919
+    second: Classic_16_LightGlass_R|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 3579165316822483989
+    second: Classic_16_LightGlass_R|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 3459246437665139248
+    second: Classic_16_LightGlass_R|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: -1784437722944464476
+    second: Classic_16_LightGlass_R|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 6254246853100689717
+    second: Classic_16_LightGlass_L|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 413475250189673246
+    second: Classic_16_LightGlass_L|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -4342612032590241619
+    second: Classic_16_LightGlass_L|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -7959528059474571107
+    second: Classic_16_LightGlass_L|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: 1701844380641063853
+    second: Classic_16_LightGlass_L|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: 5242795380395188283
+    second: Classic_16_LightGlass_L|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: 157455240633676231
+    second: Classic_16_LightGlass_L|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -3617460567635066031
+    second: Classic_16_LightGlass_L|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 194334990036814676
+    second: Classic_16_LightGlass_L|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 4911720290704386448
+    second: Classic_16_LightGlass_L|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -3334489372415577220
+    second: Classic_16_LightGlass_L|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -8143689883910089215
+    second: Classic_16_LightGlass_L|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -3252912461385906042
+    second: Classic_16_LightGlass_L|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: -2094713145310319648
+    second: Classic_16_LightGlass_L|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: 9039006112638858222
+    second: Classic_16_LightGlass_L|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: -6173021433855680732
+    second: Classic_16_LightGlass_L|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: 3390358561591439206
+    second: Classic_16_LightGlass_L|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: -8543007842697990745
+    second: Classic_16_LightGlass_L|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: -892539164664987889
+    second: Classic_16_LightGlass_L|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: 1375604497788683723
+    second: Classic_16_LightGlass_L|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -694794563350290523
+    second: Classic_16_LightGlass_L|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 8210968912229391835
+    second: Classic_16_LightGlass_L|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 3857836771017520342
+    second: Classic_16_LightGlass_L|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 8391833464816184792
+    second: Classic_16_LightGlass_L|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: -7469420650216436697
+    second: Classic_16_LightGlass_L|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -5547124660392311186
+    second: Classic_16_LightGlass_L|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -3509136806398265689
+    second: Classic_16_LightGlass_L|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 1076402486916571783
+    second: Classic_16_LightGlass_L|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -5265667006560992280
+    second: Classic_16_LightGlass_L|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 1515648100472253097
+    second: Classic_16_LightGlass_L|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 4767632759760179513
+    second: Classic_16_LightGlass_L|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 7875467823470595789
+    second: Classic_16_LightGlass_L|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 1144136768752247612
+    second: Classic_16_Taillights.001|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -6382151520188428853
+    second: Classic_16_Taillights.001|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -3030553464671268223
+    second: Classic_16_Taillights.001|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -3303515261971859118
+    second: Classic_16_Taillights.001|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -7861157889006651108
+    second: Classic_16_Taillights.001|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: 6704641042474676277
+    second: Classic_16_Taillights.001|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -1496329909612773498
+    second: Classic_16_Taillights.001|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -8471337484897965645
+    second: Classic_16_Taillights.001|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 5854073807419300823
+    second: Classic_16_Taillights.001|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: -7288203290113800901
+    second: Classic_16_Taillights.001|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -6612585261600422764
+    second: Classic_16_Taillights.001|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -371141724302400303
+    second: Classic_16_Taillights.001|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -8795369365554908857
+    second: Classic_16_Taillights.001|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 2280704556798265984
+    second: Classic_16_Taillights.001|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -5678663902038222255
+    second: Classic_16_Taillights.001|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 5550833156408947987
+    second: Classic_16_Taillights.001|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -5034355372539050670
+    second: Classic_16_Taillights.001|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 7872962788723690285
+    second: Classic_16_Taillights.001|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 8027077116754649510
+    second: Classic_16_Taillights.001|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: 4219489702180232221
+    second: Classic_16_Taillights.001|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -4409940125914269109
+    second: Classic_16_Taillights.001|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 2948820729471494828
+    second: Classic_16_Taillights.001|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 7185742877633678000
+    second: Classic_16_Taillights.001|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 4043552308882735960
+    second: Classic_16_Taillights.001|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 4770365687517610091
+    second: Classic_16_Taillights.001|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -2228999653432267360
+    second: Classic_16_Taillights.001|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -5417031283738955405
+    second: Classic_16_Taillights.001|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 3496466438389346358
+    second: Classic_16_Taillights.001|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -579774538955613923
+    second: Classic_16_Taillights.001|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -7081169904142022656
+    second: Classic_16_Taillights.001|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 364314074995430677
+    second: Classic_16_Taillights.001|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 4835060268851611462
+    second: Classic_16_Taillights.001|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: -417688089413797290
+    second: Classic_16_Taillights.002|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 6466745651481604369
+    second: Classic_16_Taillights.002|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: 1385259461929812434
+    second: Classic_16_Taillights.002|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -1600449561951331330
+    second: Classic_16_Taillights.002|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: 1938014279255264582
+    second: Classic_16_Taillights.002|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -158337911411523770
+    second: Classic_16_Taillights.002|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -1524870867665909394
+    second: Classic_16_Taillights.002|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -8648502392030606359
+    second: Classic_16_Taillights.002|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: -4479729694332309478
+    second: Classic_16_Taillights.002|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 962703433541512876
+    second: Classic_16_Taillights.002|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -8570706735045658320
+    second: Classic_16_Taillights.002|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -2530366170736264232
+    second: Classic_16_Taillights.002|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -635756754333851136
+    second: Classic_16_Taillights.002|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: -4922034665119656980
+    second: Classic_16_Taillights.002|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -2232264390580666870
+    second: Classic_16_Taillights.002|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 1939583894812029226
+    second: Classic_16_Taillights.002|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -9052739211339977644
+    second: Classic_16_Taillights.002|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: -2273947780484692212
+    second: Classic_16_Taillights.002|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 1953362001248152533
+    second: Classic_16_Taillights.002|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -2311590405152516967
+    second: Classic_16_Taillights.002|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -6546337256088404828
+    second: Classic_16_Taillights.002|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -4907074561292213390
+    second: Classic_16_Taillights.002|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 7644203627764366115
+    second: Classic_16_Taillights.002|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 270258394631881191
+    second: Classic_16_Taillights.002|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: -8460333551673390121
+    second: Classic_16_Taillights.002|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -7462341325308768939
+    second: Classic_16_Taillights.002|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: 4143864709665878396
+    second: Classic_16_Taillights.002|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: -9076721663080769631
+    second: Classic_16_Taillights.002|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -7893417888803529739
+    second: Classic_16_Taillights.002|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -246211112147701796
+    second: Classic_16_Taillights.002|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 3345074076553604388
+    second: Classic_16_Taillights.002|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 7101877676340315631
+    second: Classic_16_Taillights.002|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 5215102049376177998
+    second: Classic_16_Taillights.003|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -7796479858420999802
+    second: Classic_16_Taillights.003|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -3193275124563553761
+    second: Classic_16_Taillights.003|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -4898231981147974273
+    second: Classic_16_Taillights.003|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: 4385574649634564675
+    second: Classic_16_Taillights.003|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -2595298533148672566
+    second: Classic_16_Taillights.003|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -5265680102496921563
+    second: Classic_16_Taillights.003|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: 1583490322606545259
+    second: Classic_16_Taillights.003|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 7397426034557396
+    second: Classic_16_Taillights.003|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: -4281746180950859076
+    second: Classic_16_Taillights.003|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: 5745914148208754183
+    second: Classic_16_Taillights.003|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: 4406235038365373935
+    second: Classic_16_Taillights.003|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: 2610494153558646197
+    second: Classic_16_Taillights.003|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 5997664510947618781
+    second: Classic_16_Taillights.003|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -8604123516539057761
+    second: Classic_16_Taillights.003|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: -6694261436717627917
+    second: Classic_16_Taillights.003|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: 8584928218731819940
+    second: Classic_16_Taillights.003|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: -1746682549104342296
+    second: Classic_16_Taillights.003|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 5792315886854396546
+    second: Classic_16_Taillights.003|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -7431379803955408473
+    second: Classic_16_Taillights.003|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 3501980910319642555
+    second: Classic_16_Taillights.003|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 4977713378271923319
+    second: Classic_16_Taillights.003|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 8059051955305750902
+    second: Classic_16_Taillights.003|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 2146448467546078909
+    second: Classic_16_Taillights.003|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 1900860050980220295
+    second: Classic_16_Taillights.003|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 5030164776062451239
+    second: Classic_16_Taillights.003|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -1657217108942222324
+    second: Classic_16_Taillights.003|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: -8036418500738063089
+    second: Classic_16_Taillights.003|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: 3536703664684033060
+    second: Classic_16_Taillights.003|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 2860623953179683281
+    second: Classic_16_Taillights.003|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 2914320325299798668
+    second: Classic_16_Taillights.003|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 1650363033459742474
+    second: Classic_16_Taillights.003|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 32806539160952467
+    second: Classic_16_Taillights.004|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 2988338679202041469
+    second: Classic_16_Taillights.004|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -3349637804612553350
+    second: Classic_16_Taillights.004|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -4371107161617816962
+    second: Classic_16_Taillights.004|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: 6763637691184570040
+    second: Classic_16_Taillights.004|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -2140524925106403645
+    second: Classic_16_Taillights.004|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -4898625984260684860
+    second: Classic_16_Taillights.004|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -246644298971478386
+    second: Classic_16_Taillights.004|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: -5058765403987205503
+    second: Classic_16_Taillights.004|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 2097480458274150215
+    second: Classic_16_Taillights.004|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: 3684746858904331370
+    second: Classic_16_Taillights.004|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: 2621559939740085691
+    second: Classic_16_Taillights.004|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -1249481370187584189
+    second: Classic_16_Taillights.004|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 6728739263581566784
+    second: Classic_16_Taillights.004|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: 1795770292110359765
+    second: Classic_16_Taillights.004|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 2847955012841269724
+    second: Classic_16_Taillights.004|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -6993988580746724372
+    second: Classic_16_Taillights.004|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: -5878745960986941483
+    second: Classic_16_Taillights.004|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: -5471102526939492541
+    second: Classic_16_Taillights.004|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -2891244807766511334
+    second: Classic_16_Taillights.004|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 1650975418669094050
+    second: Classic_16_Taillights.004|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 4369692092698606602
+    second: Classic_16_Taillights.004|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: -4305023140862851522
+    second: Classic_16_Taillights.004|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 6327540878028517713
+    second: Classic_16_Taillights.004|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 3051079891594326046
+    second: Classic_16_Taillights.004|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 8176433687479251123
+    second: Classic_16_Taillights.004|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -5127185733027048924
+    second: Classic_16_Taillights.004|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 3904012466091926610
+    second: Classic_16_Taillights.004|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: 1718948293962027256
+    second: Classic_16_Taillights.004|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -5348381584996113598
+    second: Classic_16_Taillights.004|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 3125436588977660113
+    second: Classic_16_Taillights.004|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: -542500821007704403
+    second: Classic_16_Taillights.004|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 2703061910176795103
+    second: Classic_16_Body.001|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -2500639503504898848
+    second: Classic_16_Body.001|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: 2039149718340575134
+    second: Classic_16_Body.001|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: 7266764752867751219
+    second: Classic_16_Body.001|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -1024085356801128914
+    second: Classic_16_Body.001|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: 3096527380676201634
+    second: Classic_16_Body.001|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: 7586334723111029214
+    second: Classic_16_Body.001|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -6080090896747152082
+    second: Classic_16_Body.001|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 9134436794421957277
+    second: Classic_16_Body.001|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: -3739941705354232737
+    second: Classic_16_Body.001|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -7361757127154931744
+    second: Classic_16_Body.001|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: -6053530564883242381
+    second: Classic_16_Body.001|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -4169698250503790262
+    second: Classic_16_Body.001|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 136727071216389174
+    second: Classic_16_Body.001|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: 5245900972982597861
+    second: Classic_16_Body.001|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: -8535448004235952654
+    second: Classic_16_Body.001|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -2810906271169766238
+    second: Classic_16_Body.001|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 4109721141527812266
+    second: Classic_16_Body.001|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: -5083283157091732262
+    second: Classic_16_Body.001|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: -9098216430217788400
+    second: Classic_16_Body.001|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 8686973373510678464
+    second: Classic_16_Body.001|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -151583491133651809
+    second: Classic_16_Body.001|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 1273307198583715263
+    second: Classic_16_Body.001|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 7633408840654530183
+    second: Classic_16_Body.001|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 5858130585669004255
+    second: Classic_16_Body.001|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -4359914698552389697
+    second: Classic_16_Body.001|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: 5476530332310051336
+    second: Classic_16_Body.001|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 8970842158726169846
+    second: Classic_16_Body.001|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: 4614857205992031907
+    second: Classic_16_Body.001|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -3166896030397820136
+    second: Classic_16_Body.001|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: 3074979452558787618
+    second: Classic_16_Body.001|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: 7760925442597475118
+    second: Classic_16_Body.001|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 5441526002545495584
+    second: Classic_16_Body.002|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 8158616117794356455
+    second: Classic_16_Body.002|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: 3972428985662022783
+    second: Classic_16_Body.002|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: 352470355780059550
+    second: Classic_16_Body.002|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: 5024911148698735424
+    second: Classic_16_Body.002|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -8167097410434356277
+    second: Classic_16_Body.002|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -5441147439520246199
+    second: Classic_16_Body.002|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -4127247779334064153
+    second: Classic_16_Body.002|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: -478904978895549889
+    second: Classic_16_Body.002|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 5824769148725208149
+    second: Classic_16_Body.002|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: 3992490034295753727
+    second: Classic_16_Body.002|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: 7465569775231443499
+    second: Classic_16_Body.002|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: 249468675721890479
+    second: Classic_16_Body.002|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: -6994520390250221916
+    second: Classic_16_Body.002|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -7035365657569947339
+    second: Classic_16_Body.002|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: -3709485119848799198
+    second: Classic_16_Body.002|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -5833727049029082549
+    second: Classic_16_Body.002|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: 19710309016225040
+    second: Classic_16_Body.002|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 7712206145016775913
+    second: Classic_16_Body.002|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: 2651470395199401713
+    second: Classic_16_Body.002|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: 4770274107197523227
+    second: Classic_16_Body.002|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 978924613605479682
+    second: Classic_16_Body.002|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: -6512566279569212968
+    second: Classic_16_Body.002|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: 7080401096300050298
+    second: Classic_16_Body.002|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: -6383064672929789184
+    second: Classic_16_Body.002|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 1729577296996379332
+    second: Classic_16_Body.002|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: 6460928026422334968
+    second: Classic_16_Body.002|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: -8770867748791122277
+    second: Classic_16_Body.002|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -8797194938761977946
+    second: Classic_16_Body.002|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: -1354386839059752076
+    second: Classic_16_Body.002|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: -4930305473389885661
+    second: Classic_16_Body.002|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: -4010485710022252409
+    second: Classic_16_Body.002|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: 983637341692324376
+    second: Classic_16_Body.003|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: -5858105995724136668
+    second: Classic_16_Body.003|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -6811651750339251078
+    second: Classic_16_Body.003|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -3084581861684363984
+    second: Classic_16_Body.003|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: -8555295958673440971
+    second: Classic_16_Body.003|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: 363804930043109141
+    second: Classic_16_Body.003|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: -2674302381250456592
+    second: Classic_16_Body.003|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -893453910223772707
+    second: Classic_16_Body.003|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 7766210089282093450
+    second: Classic_16_Body.003|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: 6578788896795439293
+    second: Classic_16_Body.003|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: -744296717261755580
+    second: Classic_16_Body.003|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: 3104816165135007093
+    second: Classic_16_Body.003|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -3071891131121039999
+    second: Classic_16_Body.003|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: 5264238192804722983
+    second: Classic_16_Body.003|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: -8520319829645729066
+    second: Classic_16_Body.003|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 6021184453373741899
+    second: Classic_16_Body.003|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -624820760953446497
+    second: Classic_16_Body.003|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: -4335622680294615262
+    second: Classic_16_Body.003|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: -3580955299758902738
+    second: Classic_16_Body.003|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: 1161435780632821645
+    second: Classic_16_Body.003|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -2355539529999495322
+    second: Classic_16_Body.003|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: 6695018786996743125
+    second: Classic_16_Body.003|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: -8215297199191737920
+    second: Classic_16_Body.003|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: -2818786472820279316
+    second: Classic_16_Body.003|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: 6999553533199723327
+    second: Classic_16_Body.003|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: 3629899321843537154
+    second: Classic_16_Body.003|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -2337493521577454235
+    second: Classic_16_Body.003|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: 6267094047684556752
+    second: Classic_16_Body.003|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -1633865206997024088
+    second: Classic_16_Body.003|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 1611671921914705347
+    second: Classic_16_Body.003|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: -2559299719302503640
+    second: Classic_16_Body.003|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: -2015206244405024585
+    second: Classic_16_Body.003|Classic_16_Window_RF|Take 001|BaseLayer
+  - first:
+      74: -5791410817419305262
+    second: Classic_16_Body.004|Classic_16_Body|Take 001|BaseLayer
+  - first:
+      74: 2955167419505332460
+    second: Classic_16_Body.004|Classic_16_Body|Take 001|BaseLayer.001
+  - first:
+      74: -3455740169013246827
+    second: Classic_16_Body.004|Classic_16_Body|Take 001|BaseLayer.002
+  - first:
+      74: -5143325589241375191
+    second: Classic_16_Body.004|Classic_16_Body|Take 001|BaseLayer.003
+  - first:
+      74: 5158986694592837658
+    second: Classic_16_Body.004|Classic_16_Body|Take 001|BaseLayer.004
+  - first:
+      74: -7094293064890200081
+    second: Classic_16_Body.004|Classic_16_Body|Take 001|BaseLayer.005
+  - first:
+      74: 9148498299654144047
+    second: Classic_16_Body.004|Classic_16_Body|Take 001|BaseLayer.006
+  - first:
+      74: -8609556108257913100
+    second: Classic_16_Body.004|Classic_16_Body|Take 001|BaseLayer.007
+  - first:
+      74: 1969907167351813808
+    second: Classic_16_Body.004|Classic_16_Body|Take 001|BaseLayer.008
+  - first:
+      74: -1473908526505455387
+    second: Classic_16_Body.004|Classic_16_Dashboard|Take 001|BaseLayer
+  - first:
+      74: 2621259912793698321
+    second: Classic_16_Body.004|Classic_16_Door_L|Take 001|BaseLayer
+  - first:
+      74: 2814227847957385605
+    second: Classic_16_Body.004|Classic_16_Door_R|Take 001|BaseLayer
+  - first:
+      74: -6680488918559489942
+    second: Classic_16_Body.004|Classic_16_Hood|Take 001|BaseLayer
+  - first:
+      74: -7014876127787045940
+    second: Classic_16_Body.004|Classic_16_LightGlass_L|Take 001|BaseLayer
+  - first:
+      74: 9164168882151706639
+    second: Classic_16_Body.004|Classic_16_LightGlass_R|Take 001|BaseLayer
+  - first:
+      74: 3257695583893412088
+    second: Classic_16_Body.004|Classic_16_Roof|Take 001|BaseLayer
+  - first:
+      74: -6891936835347107376
+    second: Classic_16_Body.004|Classic_16_Taillights|Take 001|BaseLayer
+  - first:
+      74: -8799669006936569609
+    second: Classic_16_Body.004|Classic_16_Taillights|Take 001|BaseLayer.001
+  - first:
+      74: 5201463846288571461
+    second: Classic_16_Body.004|Classic_16_Taillights|Take 001|BaseLayer.002
+  - first:
+      74: 6360414127486330974
+    second: Classic_16_Body.004|Classic_16_Taillights|Take 001|BaseLayer.003
+  - first:
+      74: -7934862107208815871
+    second: Classic_16_Body.004|Classic_16_Taillights|Take 001|BaseLayer.004
+  - first:
+      74: -5812268212379468780
+    second: Classic_16_Body.004|Classic_16_Taillights|Take 001|BaseLayer.005
+  - first:
+      74: 3519119386188942739
+    second: Classic_16_Body.004|Classic_16_Taillights|Take 001|BaseLayer.006
+  - first:
+      74: -6343846970226497668
+    second: Classic_16_Body.004|Classic_16_Taillights|Take 001|BaseLayer.007
+  - first:
+      74: -71855735126226225
+    second: Classic_16_Body.004|Classic_16_Taillights|Take 001|BaseLayer.008
+  - first:
+      74: -563728408726002452
+    second: Classic_16_Body.004|Classic_16_Trunk|Take 001|BaseLayer
+  - first:
+      74: -8348663368595697589
+    second: Classic_16_Body.004|Classic_16_Window_B|Take 001|BaseLayer
+  - first:
+      74: -1428599101216787329
+    second: Classic_16_Body.004|Classic_16_Window_F|Take 001|BaseLayer
+  - first:
+      74: -2565456239341457701
+    second: Classic_16_Body.004|Classic_16_Window_LB|Take 001|BaseLayer
+  - first:
+      74: 6241852433428772630
+    second: Classic_16_Body.004|Classic_16_Window_LF|Take 001|BaseLayer
+  - first:
+      74: -6757691772859188509
+    second: Classic_16_Body.004|Classic_16_Window_RB|Take 001|BaseLayer
+  - first:
+      74: -7731857483535831367
+    second: Classic_16_Body.004|Classic_16_Window_RF|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
